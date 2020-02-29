@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TableTennisScoreCounter</string>
+    <string name="heading">Tennis Score</string>
+    <string name="setScore">Set Score</string>
+</resources>
